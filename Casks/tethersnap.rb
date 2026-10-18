@@ -1,10 +1,10 @@
 cask "tethersnap" do
-  version "0.2.0"
-  sha256 "05aeee76c35ad702846b4809f0719999a8dcf1bfa5ec031479aa1c3af685f5f3"
+  version "0.3.0"
+  sha256 "8021986e464868cc16f3823e8a5eedcee4a74176d88459131a70c32625f96cf3"
 
   url "https://github.com/Luminoid/Tethersnap/releases/download/#{version}/Tethersnap-#{version}.dmg"
   name "Tethersnap"
-  desc "Export Nintendo Switch 2 screenshots and videos over USB"
+  desc "Export photos and videos from game consoles, cameras, and drives"
   homepage "https://github.com/Luminoid/Tethersnap"
 
   livecheck do
