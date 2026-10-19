@@ -4,7 +4,7 @@ Homebrew formulae and casks for [Luminoid](https://luminoid.dev)'s Mac tools. In
 
 | Package | Kind | Install | What it is |
 |---------|------|---------|------------|
-| [Tethersnap](https://github.com/Luminoid/Tethersnap) | Cask | `brew install --cask luminoid/tap/tethersnap` | Mac app + CLI that export Nintendo Switch 2 screenshots and videos over USB (macOS 15+, notarized DMG) |
+| [Tethersnap](https://github.com/Luminoid/Tethersnap) | Cask | `brew install --cask luminoid/tap/tethersnap` | Mac app + CLI that export photos and videos from game consoles, cameras, and drives (macOS 15+, notarized DMG) |
 | [Monolith](https://github.com/Luminoid/Monolith) | Formula | `brew install luminoid/tap/monolith` | Swift CLI that scaffolds iOS apps, Swift Packages, and Swift CLIs (builds from source; needs Xcode 26) |
 
 To use short names (`brew install monolith`, `brew upgrade tethersnap`), trust the tap once:
